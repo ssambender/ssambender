@@ -1,4 +1,4 @@
-# Hi, I'm Sam! 🤠
+# Howdy, I'm Sam! 🤠
 
 🛠️ I'm currently working on [**Pseudo-sentient Furby**]()
 
@@ -8,6 +8,7 @@
 
 ✉️ Contact me: **sam@sambender.net**
 
+<br>
 <h3 align="left">Skills</h3>
 
 <p align="left">
