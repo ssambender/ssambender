@@ -2,7 +2,7 @@
 
 🛠️ I'm currently working on [**Pseudo-sentient Furby**]()
 
-👨‍🎓 I'm currently learning **TensorFlow** and **Go**
+👨‍🎓 I'm currently learning **TensorFlow** and **SQL**
 
 🤝 I'm looking to collaborate on [**Canvas Chrome Extension**](https://chrome.google.com/webstore/detail/canvas-darkish-mode/acplecnkhkagegopepjcbngglhkkjcch?hl=en)
 
