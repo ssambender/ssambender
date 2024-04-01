@@ -10,6 +10,7 @@
 
 ###
 
+___
 <p align="left"></p>
 
 ###
@@ -39,7 +40,7 @@
 <p align="left"></p>
 
 ###
-
+___
 <h3 align="left">🎨 Creative tools I use</h3>
 
 ###
@@ -67,7 +68,7 @@
 <p align="left"></p>
 
 ###
-
+___
 <h3 align="left">💻 Other programs I like</h3>
 
 ###
@@ -96,6 +97,7 @@
 
 <p align="left"></p>
 
+___
 ###
 
 <p align="center">https://sambender.net/</p>
