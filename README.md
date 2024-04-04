@@ -64,9 +64,9 @@ ___
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  />
-<img width="12" />
-
+  <img width="12" />
 </div>
 
 ###
