@@ -30,6 +30,8 @@ ___
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -57,9 +59,9 @@ ___
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="adobeaftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
   <img width="12" />
@@ -80,7 +82,11 @@ ___
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
   <img width="12" />
@@ -89,10 +95,6 @@ ___
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/swift/F05138" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="xcode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" alt="raspberrypi logo"  />
   <img width="12" />
