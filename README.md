@@ -19,7 +19,7 @@ ___
 
 ###
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -38,7 +38,7 @@ ___
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-</div>
+</p>
 
 ###
 
@@ -50,7 +50,7 @@ ___
 
 ###
 
-<div align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
@@ -69,7 +69,7 @@ ___
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  />
   <img width="12" />
-</div>
+</p>
 
 ###
 
@@ -81,7 +81,7 @@ ___
 
 ###
 
-<div align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -99,7 +99,7 @@ ___
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/opengl/5586A4" height="40" alt="opengl logo"  />
-</div>
+</p>
 
 ###
 
